@@ -16,3 +16,7 @@ main{
 .articledestacado{
     height: 100%;
 }
+.botonCronometro{
+    width: 30%;
+    min-width: 50px;
+}
