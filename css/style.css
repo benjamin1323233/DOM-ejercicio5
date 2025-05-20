@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+main{
+   flex-grow: 1;
+}
+.navtext{
+    color: aliceblue;
+}
+.borde{
+    border-color: rgb(46, 46, 46);
+    border-radius: 40px;
+}
+.articledestacado{
+    height: 100%;
+}
